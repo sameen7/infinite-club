@@ -1,0 +1,220 @@
+{
+  "Upcoming": {
+    "UpCourts": {
+
+    },
+    "total": 0,
+    "EventId": 0,
+    "_id": {
+      "$oid": "5b8d0030491f46b4c555935a"
+    },
+    "TimeStamp": "2000-01-01 00:00:00"
+  },
+  "MemberQueue": {
+    "Total": 8,
+    "EventId": 0,
+    "_id": {
+      "$oid": "5b8cfec5491f46b4c5559355"
+    },
+    "Queue": {
+      "M1": {
+        "chosenBy": 0,
+        "gender": "Male",
+        "name": "Jack",
+        "chose": 0,
+        "rank": 1,
+        "point": 0,
+        "memberId": 1,
+        "status": 9,
+        "courtId": 0,
+        "pos": ""
+      },
+      "M2": {
+        "chosenBy": 0,
+        "gender": "Male",
+        "name": "Mark",
+        "chose": 0,
+        "rank": 2,
+        "point": 0,
+        "memberId": 2,
+        "status": 9,
+        "courtId": 0,
+        "pos": ""
+      },
+      "M3": {
+        "chosenBy": 0,
+        "gender": "Male",
+        "name": "Jack",
+        "chose": 0,
+        "rank": 3,
+        "point": 0,
+        "memberId": 3,
+        "status": 9,
+        "courtId": 0,
+        "pos": ""
+      },
+      "M4": {
+        "chosenBy": 0,
+        "gender": "Male",
+        "name": "John",
+        "chose": 0,
+        "rank": 4,
+        "point": 0,
+        "memberId": 4,
+        "status": 9,
+        "courtId": 0,
+        "pos": ""
+      },
+      "M5": {
+        "chosenBy": 0,
+        "gender": "Female",
+        "name": "Kitty",
+        "chose": 0,
+        "rank": 5,
+        "point": 0,
+        "memberId": 5,
+        "status": 9,
+        "courtId": 0,
+        "pos": ""
+      },
+      "M6": {
+        "chosenBy": 0,
+        "gender": "Female",
+        "name": "Happer",
+        "chose": 0,
+        "rank": 6,
+        "point": 0,
+        "memberId": 6,
+        "status": 9,
+        "courtId": 0,
+        "pos": ""
+      },
+      "M7": {
+        "chosenBy": 0,
+        "gender": "Female",
+        "name": "Seth",
+        "chose": 0,
+        "rank": 7,
+        "point": 0,
+        "memberId": 7,
+        "status": 9,
+        "courtId": 0,
+        "pos": ""
+      },
+      "M8": {
+        "chosenBy": 0,
+        "gender": "Female",
+        "name": "Joss",
+        "chose": 0,
+        "rank": 8,
+        "point": 0,
+        "memberId": 8,
+        "status": 9,
+        "courtId": 0,
+        "pos": ""
+      }
+    },
+    "TimeStamp": "2000-01-01 00:00:00"
+  },
+  "Games": {
+    "total": 2,
+    "left": 2,
+    "OnCourts": {
+      "G1": {
+        "A1": {
+          "chosenBy": 0,
+          "gender": "",
+          "name": "",
+          "chose": 0,
+          "point": 0,
+          "memberId": 0,
+          "status": 0,
+          "courtId": 1
+        },
+        "B2": {
+          "chosenBy": 0,
+          "gender": "",
+          "name": "",
+          "chose": 0,
+          "point": 0,
+          "memberId": 0,
+          "status": 0,
+          "courtId": 1
+        },
+        "A2": {
+          "chosenBy": 0,
+          "gender": "",
+          "name": "",
+          "chose": 0,
+          "point": 0,
+          "memberId": 0,
+          "status": 0,
+          "courtId": 1
+        },
+        "courtId": 1,
+        "left": 1,
+        "starttime": "",
+        "B1": {
+          "chosenBy": 0,
+          "gender": "",
+          "name": "",
+          "chose": 0,
+          "point": 0,
+          "memberId": 0,
+          "status": 0,
+          "courtId": 1
+        }
+      },
+      "G2": {
+        "A1": {
+          "chosenBy": 0,
+          "gender": "",
+          "name": "",
+          "chose": 0,
+          "point": 0,
+          "memberId": 0,
+          "status": 0,
+          "courtId": 2
+        },
+        "B2": {
+          "chosenBy": 0,
+          "gender": "",
+          "name": "",
+          "chose": 0,
+          "point": 0,
+          "memberId": 0,
+          "status": 0,
+          "courtId": 2
+        },
+        "A2": {
+          "chosenBy": 0,
+          "gender": "",
+          "name": "",
+          "chose": 0,
+          "point": 0,
+          "memberId": 0,
+          "status": 0,
+          "courtId": 2
+        },
+        "courtId": 2,
+        "left": 1,
+        "starttime": "",
+        "B1": {
+          "chosenBy": 0,
+          "gender": "",
+          "name": "",
+          "chose": 0,
+          "point": 0,
+          "memberId": 0,
+          "status": 0,
+          "courtId": 2
+        }
+      }
+    },
+    "EventId": 0,
+    "_id": {
+      "$oid": "5b8d00f4491f46b4c5559363"
+    },
+    "TimeStamp": "2000-01-01 00:00:00"
+  }
+}

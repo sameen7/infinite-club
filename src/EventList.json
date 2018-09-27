@@ -1,0 +1,44 @@
+{
+	"READY": [{
+		"eventId": 18,
+		"startTime": "2018-08-17 19:00:00",
+		"courts": 4,
+		"endTime": "2018-08-17 22:00:00"
+	}, {
+		"eventId": 19,
+		"startTime": "2018-08-17 19:00:00",
+		"courts": 4,
+		"endTime": "2018-08-17 22:00:00"
+	}, {
+		"eventId": 20,
+		"startTime": "2018-08-17 19:00:00",
+		"courts": 4,
+		"endTime": "2018-08-17 22:00:00"
+	}, {
+		"eventId": 21,
+		"startTime": "2018-08-17 19:00:00",
+		"courts": 4,
+		"endTime": "2018-08-17 22:00:00"
+	}, {
+    "eventId": 22,
+    "startTime": "2018-08-17 19:00:00",
+    "courts": 4,
+    "endTime": "2018-08-17 22:00:00"
+  }, {
+    "eventId": 23,
+    "startTime": "2018-08-17 19:00:00",
+    "courts": 4,
+    "endTime": "2018-08-17 22:00:00"
+  }, {
+    "eventId": 24,
+    "startTime": "2018-08-17 19:00:00",
+    "courts": 4,
+    "endTime": "2018-08-17 22:00:00"
+  }, {
+    "eventId": 0,
+    "startTime": "",
+    "courts": 0,
+    "endTime": ""
+  }],
+	"FINISHED": []
+}
